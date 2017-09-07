@@ -2,18 +2,18 @@
 import random
 i=0
 while(i<=100):
-    p=input("press 4 to roll a dice: ")
-    if p==4:
-        r=random.randint(1,6) # gives a random integer
-        i=i+r
-        print("Your new position is" ,i)
-        if i==13:
-            i=34
-            print("LUCKY! YOU JUST GOT UP A LADDER")
-        elif i==11:
-            i=2
-            print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL")
-        elif i==8:  
+	p=input("press 4 to roll a dice: ")
+	if p==4:
+		r=random.randint(1,6) # gives a random integer
+		i=i+r
+		print("Your new position is" ,i)
+		if i==13:
+			i=34
+			print("LUCKY! YOU JUST GOT UP A LADDER")
+		elif i==11:
+			i=2
+			print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL")
+        elif i==8:
             i=37
             print("LUCKY! YOU JUST GOT UP A LADDER")
         elif i==25:
@@ -45,3 +45,26 @@ while(i<=100):
             print("Congratulation you have reach HOME")
         else:
             print("Roll Again")
+            
+    
+                
+        
+            
+
+
+              
+                
+                   
+                                   
+                    
+                    
+		
+
+
+                                   
+                    
+                    
+		
+
+		
+	
