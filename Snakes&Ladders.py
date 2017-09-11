@@ -40,12 +40,7 @@ while(i<=100):
         elif i==93:
             i=64
             print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL")
-    if i>=94:
-        if i+r==100:
-            print("Congratulation you have reach HOME")
-        else:
-            print("Roll Again")
-            
+   
     
                 
         
