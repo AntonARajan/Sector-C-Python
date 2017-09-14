@@ -1,0 +1,34 @@
++-0.py - This program gives data of numbers and their postions on a numberline.
+
+1.py   - This program gives data of a constant number 'a' used with different methods of calculation.
+
+2.py   - Program consisting of a range of numbers set to a command between limits of two other numbers.
+
+3.py/Tables.py   - Program dealing with tables of 2,3 & 5 specifically .
+
+Antondice.py - Data dealing with a random throw of a dice.
+		*when the program is executed, the function randit under random command gives a random number between 1&6.
+
+Snakes&Ladder.py - Program created for the game game 'snakes and ladders'.
+			*program is executed,
+				#using randint function in random command,
+				#while command to set condition for position,
+				#if & elif conditions that contain position change by Snakes and Ladder
+divisors.py - program when executed gives the divisors of and any random number typed.
+		*program is executed,
+			#usng int(input()) function to give an entry message
+			#using range for set of probable numbers entered.
+
+gMAIL.py - Programs when executed sends a message to the user,
+		*program is executed,
+			#using smtplib commands.
+			
+python1.py/if1.py   - this program when executed gives information if the number set between a range is even or odd.
+			*program is executed<
+				#using range 
+stonpapsciss.py - Program created for the hand game 'Stone,Paper,Scissors'
+			*program is executed,
+				#using random commands,
+				#using while  function,
+				#if & elif functions
+
