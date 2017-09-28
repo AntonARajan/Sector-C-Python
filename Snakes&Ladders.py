@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-import random
+import random 
 i=0
-while(i<=100):
-	p=input("press 4 to roll a dice: ")
+while(i<=100): #a functions which creates a loop 
+	p=input("press 4 to roll a dice: ")# p being a variable
 	if p==4:
 		r=random.randint(1,6) # gives a random integer
 		i=i+r
@@ -39,7 +39,7 @@ while(i<=100):
             print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL")
         elif i==93:
             i=64
-            print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL")
+            print("HARD LUCK, YOU'VE JUST BECOME A SNAKES MEAL") #(___) to get specific conditions for position
    
     
                 
